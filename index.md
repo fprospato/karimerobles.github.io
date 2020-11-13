@@ -3,7 +3,7 @@ layout: default
 ---
 # Links
 - [Resume](https://github.com/karimerobles/karimerobles.github.io/blob/main/Karime%20Robles%20Resume%208:20.pdf)
-- [Github] (https://github.com/karimerobles)
+- [Github](https://github.com/karimerobles)
 
 ---
 
