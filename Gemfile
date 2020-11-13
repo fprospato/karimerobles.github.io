@@ -1,3 +1,3 @@
 source "https://rubygems.org"
-gem "github-pages", group: :jekyll-plugina
+gem "github-pages", group: :jekyll-plugins
 gem 'jekyll-octicons'
